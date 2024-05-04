@@ -7,10 +7,10 @@ Bir hafta sonu aktivitesi olarak geliştirdiğim netflix'in clone versiyonudur. 
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/netflux1.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/netflux1.png)
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/netflux2.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/netflux2.png)
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/netflux3.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/netflux3.png)
 
   
